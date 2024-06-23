@@ -318,7 +318,7 @@ p a:link {
    p a:visited { color: rgb(190, 66, 13)
    }
    
-
+/*keyframes going left and right for scrolling picture box*/
 .picture-frame {
  margin: 0 auto;
  width: 800px;
@@ -334,7 +334,7 @@ p a:link {
 	border-color: rgb(51, 50, 47) ;
 }
 
-
+/*hover zoom animation. Also animation pauses*/
 .zoom:hover {
  transform: scale(4)
 }
@@ -584,7 +584,7 @@ background-image: url(Pictures/1024_rice-paper-10.jpg);
  font-size: 100px
 }
 
-
+/*custom bar on bottem of vote for a slideshow effect*/
 .slider
 {
  display: flex;
@@ -806,7 +806,7 @@ flex-wrap: wrap}
 
 
 
-
+/*alternating colors for table rows*/
 
 table {
  table-layout: fixed;
